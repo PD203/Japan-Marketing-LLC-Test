@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "K10page": "https://PD203.github.io/Japan-Marketing-LLC-Test",
+  "homepage": "https://PD203.github.io/Japan-Marketing-LLC-Test",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
